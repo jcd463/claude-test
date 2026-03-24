@@ -1,2 +1,5 @@
 # claude-test
-Test repository created via Claude MCP
+
+Test repo for Claude GitHub MCP integration.
+
+Last touched by: **Claude** via MCP tool call.
